@@ -15,7 +15,7 @@ It visualizes the reasoning-tier benchmark across:
 - GPT-5.5 effort tiers
 - Claude Sonnet 4.6 effort tiers
 - Claude Opus 4.7 effort tiers
-- Grok 4.3 baseline
+- Grok 4.3 effort tiers
 
 ## Notes
 
